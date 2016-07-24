@@ -1,0 +1,1 @@
+gox -osarch="linux/386 windows/386" -output="./build/monitorx-sys_{{.OS}}" ./src
