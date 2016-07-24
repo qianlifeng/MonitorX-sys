@@ -1,5 +1,5 @@
 # MonitorX-sys
-System monitor client for MonitorX that auto report system infos (currently CPU and Memory info).
+System monitor client for [MonitorX](https://github.com/qianlifeng/MonitorX) that auto report system infos (currently CPU and Memory).
 
 ![https://github.com/qianlifeng/MonitorX-sys/blob/master/doc/screenshot/demo.png](https://github.com/qianlifeng/MonitorX-sys/blob/master/doc/screenshot/demo.png)
 
