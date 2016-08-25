@@ -1,4 +1,4 @@
 {
-    "server": "http://localhost:8080",
+    "server": "http://localhost:8989",
     "node": "callback"
 }

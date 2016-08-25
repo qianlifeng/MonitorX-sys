@@ -27,3 +27,4 @@ _testmain.go
 src/debug
 .vscode/
 build/
+.idea/
